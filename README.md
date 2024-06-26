@@ -7,17 +7,12 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=5B0888&height=45&section=header2&text=Authors&fontSize=28&fontAlign=7&fontColor=E5CFF7&reversal=false&theme=holi)
-> Tal Peer tal.peer@campus.technion.ac.il
-> 
-> Carmel Soceanu
-> 
-> John Farran 
->
-> Shahaf Karp
->
-> Noam Ronen
->
-> Chaim Danino
+- Tal Peer (Technion) tal.peer@campus.technion.ac.il
+- Carmel Soceanu (Technion)
+- John Farran (Technion)
+- Shahaf Karp (TAU)
+- Noam Ronen (TAU)
+- Chaim Danino (TAU)
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=5B0888&height=45&section=header&text=Background&fontSize=28&fontAlign=10&fontColor=E5CFF7&reversal=true&theme=holi)
 
@@ -33,7 +28,7 @@ Many other uses of related terms, such as impact assessment, also impose obligat
 
 Our project aims to audit an AI system within the context of **Human In The Loop** - <br>
 Decisions performed by AI have prompted regulators to require some level of human involvement in autonomous systems.<br><br>
-At the same time, studies show that humans tend to defer to AI systems, which raise some important questions. Some examples:<br> 
+At the same time, studies show that humans tend to defer to AI systems, which raises important questions:<br>
 - When and how can humans refine outcomes of AI systems?<br>
 - How to design such hybrid decision-making processes?<br>
 - What are the legal and ethical implications of introducing humans in the loop? 
