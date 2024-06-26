@@ -8,8 +8,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=5B0888&height=45&section=header2&text=Authors&fontSize=28&fontAlign=7&fontColor=E5CFF7&reversal=false&theme=holi)
 - Tal Peer (Technion) tal.peer@campus.technion.ac.il
-- Carmel Soceanu (Technion)
-- John Farran (Technion)
+- Carmel Soceanu (Technion) carmel.so@campus.technion.ac.il
+- John Farran (Technion) John.f@campus.technion.ac.il
 - Shahaf Karp (TAU)
 - Noam Ronen (TAU)
 - Chaim Danino (TAU)
