@@ -21,15 +21,22 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=5B0888&height=45&section=header&text=Background&fontSize=28&fontAlign=10&fontColor=E5CFF7&reversal=true&theme=holi)
 
-In this project, we conduct an algorithmic audit of an AI system within a concrete context.<br> The audit requires the integration of technological, legal and ethical perspectives on novel case-sutdies, values and sectors.<br>
-Audits of automated decision systems are proposed as a way to curb discrimination and disinformation, and to hold those who deploy algorithmic decision-making accountable for their harms.<br> 
-Many other uses of related terms, such as impact assessment, would also impose obligations on covered entities to benchmark the development and implementation of algorithmic systems against some acceptable standard.<br>
+In this project, we conduct an algorithmic audit of an AI system within a concrete context.<br>
+The audit requires the integration of technological, legal, and ethical perspectives on novel case studies, values, and sectors.<br>
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=5B0888&height=30&section=header&text=Algorithmic%20Audits&fontSize=20&fontAlign=11.5&fontColor=E5CFF7&reversal=false&textBg=true&theme=holi)
+
+Audits of automated decision systems are proposed as a way to curb discrimination and disinformation, and to hold those who deploy algorithmic decision-making accountable for their harms.<br>
+Many other uses of related terms, such as impact assessment, also impose obligations on covered entities to benchmark the development and implementation of algorithmic systems against some acceptable standard.
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=5B0888&height=30&section=header&text=Human%20In%20%The%20Loop&fontSize=20&fontAlign=11.5&fontColor=E5CFF7&reversal=false&textBg=true&theme=holi)
 
-
-Our project aims to audit an AI system within the context of Human in the loop - Decisions performed by AI have prompted regulators to require some level of human involvement in autonomous systems (“human-in-the-loop”).<br><br> At the same time, studies show that humans tend to defer to AI systems, which raise some important questions:<br> When and how can humans refine outcomes of AI systems?<br> How to design such hybrid decision-making processes?<br> What are the legal and ethical implications of introducing humans in the loop? 
-
+Our project aims to audit an AI system within the context of **Human In The Loop** - <br>
+Decisions performed by AI have prompted regulators to require some level of human involvement in autonomous systems.<br><br>
+At the same time, studies show that humans tend to defer to AI systems, which raise some important questions. Some examples:<br> 
+- When and how can humans refine outcomes of AI systems?<br>
+- How to design such hybrid decision-making processes?<br>
+- What are the legal and ethical implications of introducing humans in the loop? 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=5B0888&height=45&section=header&text=Dependencies&fontSize=28&fontAlign=11.5&fontColor=E5CFF7&reversal=true&theme=holi)
 
