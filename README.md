@@ -10,9 +10,9 @@
 - Tal Peer (Technion) tal.peer@campus.technion.ac.il
 - Carmel Soceanu (Technion) carmel.so@campus.technion.ac.il
 - John Farran (Technion) John.f@campus.technion.ac.il
-- Shahaf Karp (TAU)
+- Shahaf Karp (TAU) shahafkarp@mail.tau.ac.il
 - Noam Ronen (TAU)
-- Chaim Danino (TAU)
+- Chaim Danino (TAU) chaimdanino1@mail.tau.ac.il
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=5B0888&height=45&section=header&text=Background&fontSize=28&fontAlign=10&fontColor=E5CFF7&reversal=true&theme=holi)
 
