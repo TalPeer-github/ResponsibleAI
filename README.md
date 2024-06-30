@@ -8,15 +8,14 @@
 - Carmel Soceanu (Technion) carmel.so@campus.technion.ac.il
 - John Farran (Technion) John.f@campus.technion.ac.il
 - Shahaf Karp (TAU) shahafkarp@mail.tau.ac.il
-- Noam Ronen (TAU)
+- Noam Ronen (TAU) noamronen2@mail.tau.ac.il
 - Chaim Danino (TAU) chaimdanino1@mail.tau.ac.il
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=160040&height=45&section=header&text=Background&fontSize=28&fontAlign=10&fontColor=FAF4FF&reversal=true&theme=holi)
+### **Worldbuikding notebook** - **HR_toy_case.ipynb**
 
 In this project, we conduct an algorithmic audit of an AI system within a concrete context.<br>
 The audit requires the integration of technological, legal, and ethical perspectives on novel case studies, values, and sectors.<br>
-
-
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=160040&height=30&section=header&text=Algorithmic%20Audits&fontSize=20&fontAlign=10.8&fontColor=FAF4FF&reversal=false&textBg=true&theme=holi)
 
@@ -33,6 +32,7 @@ At the same time, studies show that humans tend to defer to AI systems, which ra
 - What are the legal and ethical implications of introducing humans in the loop? 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=160040&height=45&section=header&text=Dependencies&fontSize=28&fontAlign=11.5&fontColor=FAF4FF&reversal=true&theme=holi)
+
 
 Project environment dependencies are listed in `requirements.txt`.
 From the project root folder, run:
