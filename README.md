@@ -25,11 +25,11 @@ Many other uses of related terms, such as impact assessment, also impose obligat
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=160040&height=30&section=header&text=Human%20In%20%The%20Loop&fontSize=20&fontAlign=11.5&fontColor=FAF4FF&reversal=false&textBg=true&theme=holi)
 
 Our project aims to audit an AI system within the context of **Human In The Loop** - <br>
-Decisions performed by AI have prompted regulators to require some level of human involvement in autonomous systems.<br><br>
-At the same time, studies show that humans tend to defer to AI systems, which raises important questions:<br>
-- When and how can humans refine outcomes of AI systems?<br>
-- How to design such hybrid decision-making processes?<br>
-- What are the legal and ethical implications of introducing humans in the loop? 
+Deep learning models have a greater capacity to learn complex patterns and interactions within data, which makes them more susceptible to perpetuating and even amplifying biases present in the training data. The lack of transparency and interpretability in these models further complicates efforts to identify and correct these biases, underscoring the need for careful data management, preprocessing, and the implementation of fairness-aware training techniques.
+
+By demonstrating how easily bias can be introduced using a basic model with a Human In The Loop (HITL) layer (where basic models are much more explainable than the complex models commonly used today), and training it on generated data that accurately represents the population, we can highlight the potential for bias in more complex AI algorithms. We designed our toy-world in such a way that allows us to effectively test the hypothesis about the sufficiency of HITL in addressing bias.
+
+This hypothesis is gaining traction across various fields of Machine Learning, Deep Learning, and AI in general. Our inspiration comes from a fascinating article (*) discussing the dangers of molecule-generating Gen-AI models, which included a well-defined Human-in-the-Loop layer. This article served as a gateway to understanding important considerations in AI model development. We aim to emphasize the significance of addressing human rights, fairness, privacy, bias, and other critical issues in model development, while also raising awareness among both Data Science & Law communities.
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=160040&height=45&section=header&text=Dependencies&fontSize=28&fontAlign=11.5&fontColor=FAF4FF&reversal=true&theme=holi)
 
