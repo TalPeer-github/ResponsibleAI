@@ -29,8 +29,6 @@ Deep learning models have a greater capacity to learn complex patterns and inter
 
 By demonstrating how easily bias can be introduced using a basic model with a Human In The Loop (HITL) layer (where basic models are much more explainable than the complex models commonly used today), and training it on generated data that accurately represents the population, we can highlight the potential for bias in more complex AI algorithms. We designed our toy-world in such a way that allows us to effectively test the hypothesis about the sufficiency of HITL in addressing bias.
 
-This hypothesis is gaining traction across various fields of Machine Learning, Deep Learning, and AI in general. Our inspiration comes from a fascinating article (*) discussing the dangers of molecule-generating Gen-AI models, which included a well-defined Human-in-the-Loop layer. This article served as a gateway to understanding important considerations in AI model development. We aim to emphasize the significance of addressing human rights, fairness, privacy, bias, and other critical issues in model development, while also raising awareness among both Data Science & Law communities.
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=160040&height=45&section=header&text=Dependencies&fontSize=28&fontAlign=11.5&fontColor=FAF4FF&reversal=true&theme=holi)
 
 
